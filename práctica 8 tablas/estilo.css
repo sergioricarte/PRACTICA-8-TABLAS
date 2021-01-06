@@ -1,0 +1,67 @@
+table.primeratabla {
+    border: red 1px solid; 
+}
+
+table.segundatabla {
+    border: red 1px solid;
+}
+
+td.azul {
+    border: blue 1px solid;
+}
+
+table.verde {
+    border: green 1px solid;
+    width: 500px;
+	height: 100px;
+}
+
+td.a {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.b {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.c {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.d {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.e {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.g {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.h {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.i {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.j {
+    border: green 1px solid;
+    text-align: center;
+}
+
+td.k {
+    border: green 1px solid;
+    text-align: center;
+}
